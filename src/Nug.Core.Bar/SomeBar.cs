@@ -1,5 +1,5 @@
 ﻿namespace Nug.Core.Bar;
-public class Class1
+public class SomeBar
 {
 
 }

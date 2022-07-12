@@ -1,5 +1,6 @@
 ﻿namespace Nug.Core.Foo;
-public class Class1
+
+public class SomeFoo
 {
 
 }
