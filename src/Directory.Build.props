@@ -1,0 +1,6 @@
+<Project>
+    <PropertyGroup>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageOutputPath>$(SolutionDir)/artifacts</PackageOutputPath>
+    </PropertyGroup>
+</Project>
